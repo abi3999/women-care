@@ -262,6 +262,8 @@ Boot
 ---
 
 ### 🤖 Node-RED Automation
+<div align="center">
+<img src="🤖 node-red/node red.png" alt="node red" width="100%">
 
 **Path:** `node-red/safety_bot_flow.json`  
 **Runtime:** Node-RED (local PC or cloud VM)  
@@ -289,7 +291,8 @@ Node-RED menu → Import → Paste contents of safety_bot_flow.json → Deploy
 ---
 
 ### 🖥️ Disha Smart Monitor (Police Dashboard)
-
+<div align="center">
+<img src="🖥️ disha-dashboard/preview.jpeg" alt="disha" width="100%">
 **Path:** `disha-dashboard/index.html`  
 **Type:** Single HTML file — no server, no framework, no install  
 **Usage:** Open directly in Chrome/Edge in police control room or patrol tablet
