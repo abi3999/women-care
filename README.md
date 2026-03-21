@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.png" alt="Women Auto Safety Bracelet System" width="100%">
+<img src="were.jpg" alt="Women Auto Safety Bracelet System" width="100%">
 
 # 🛡️ Women Auto Safety Bracelet System
 
