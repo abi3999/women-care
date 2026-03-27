@@ -145,11 +145,9 @@ women-auto-safety/
 │
 ├── 📚 docs/
 │   ├── assets/
-│   │   ├── architecture.png                 # System architecture diagram
-│   │   └── banner.png
-│   ├── HARDWARE.md                          # Bill of materials + wiring diagram
-│   ├── SETUP.md                             # Step-by-step full setup guide
-│   └── API.md                               # Firebase schema + S3 structure
+│   │   ├── layout.jpg                 # System architecture diagram
+│   │   └── team.jpeg
+                              
 │
 ├── README.md
 └── LICENSE
