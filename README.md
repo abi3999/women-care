@@ -442,6 +442,8 @@ threat_detect/
 ---
 
 ## 👥 Team
+<div align="center">
+<img src="📚 docs/ assets/team.jpg" alt="Women Auto Safety Bracelet System" width="100%">
 
 | Name | Role |
 |------|------|
