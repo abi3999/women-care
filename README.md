@@ -28,6 +28,7 @@
 ## 📌 Table of Contents
 
 - [What This Is](#-what-this-is)
+- [Project Demo](#-Project-Demo)
 - [How It Works](#-how-it-works)
 - [System Architecture](#-system-architecture)
 - [Repository Structure](#-repository-structure)
@@ -62,6 +63,10 @@ A **fully automatic personal safety system** built around a wearable wrist brace
 **Zero phone interaction required after the initial tap.**
 
 ---
+## 🎥 Project Demo
+
+
+[![Watch the demo](https://img.youtube.com/vi/NPWb17YDYSc/0.jpg)](https://youtu.be/NPWb17YDYSc)
 
 ## ⚙️ How It Works
 
@@ -445,8 +450,9 @@ threat_detect/
 
 | Name | Role | linked in|
 |------|------|----------|
-| **Abhishek** | Hardware (ESP32), Android (Kotlin), Cloud (Firebase + AWS) |https://www.linkedin.com/in/abhishek-embaddedelectro/
-| **deekshi shetti** | Cloud (Firebase + AWS) |
+| **Abhishek** | Hardware (ESP32), Android (Kotlin), Cloud (Firebase + AWS) |https://www.linkedin.com/in/abhishek-embaddedelectro/|
+| **deekshitha thummasi** | Cloud (Firebase + AWS) |https://www.linkedin.com/in/deekshitha-thummasi/|
+| **Vyshnavi Mallipela** | Android (Kotlin), Cloud (Firebase + AWS)|https://www.linkedin.com/in/vyshnavi-mallipela-887450385/|
 
 *Built for Innovation Hub Future Founders 2.0*
 
