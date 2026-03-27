@@ -446,7 +446,7 @@ threat_detect/
 | Name | Role |
 |------|------|
 | **Abhishek** | Hardware (ESP32), Android (Kotlin), Cloud (Firebase + AWS) |
-| *(teammate)* | *(role)* |
+| **deekshi shetti** | Cloud (Firebase + AWS) |
 
 *Built for Innovation Hub Future Founders 2.0*
 
