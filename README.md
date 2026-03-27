@@ -66,7 +66,7 @@ A **fully automatic personal safety system** built around a wearable wrist brace
 ## 🎥 Project Demo
 
 
-[![Watch the demo](https://img.youtube.com/vi/NPWb17YDYSc/0.jpg)](https://youtu.be/NPWb17YDYSc)
+[![Disha Safety System Demo](https://img.youtube.com/vi/IHc7nGKalks/maxresdefault.jpg)](https://youtu.be/IHc7nGKalks)
 
 ## ⚙️ How It Works
 
@@ -454,7 +454,7 @@ threat_detect/
 | **deekshitha thummasi** | Cloud (Firebase + AWS) |https://www.linkedin.com/in/deekshitha-thummasi/|
 | **Vyshnavi Mallipela** | Android (Kotlin), Cloud (Firebase + AWS)|https://www.linkedin.com/in/vyshnavi-mallipela-887450385/|
 
-*Built for Innovation Hub Future Founders 2.0*
+
 
 ---
 
