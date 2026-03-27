@@ -443,11 +443,11 @@ threat_detect/
 
 ## 👥 Team
 <div align="center">
-<img src="📚 docs/ assets/team.jpg" alt="Women Auto Safety Bracelet System" width="100%">
+<img src="📚 docs/ assets/team.jpeg" alt="Women Auto Safety Bracelet System" width="100%">
 
-| Name | Role |
-|------|------|
-| **Abhishek** | Hardware (ESP32), Android (Kotlin), Cloud (Firebase + AWS) |
+| Name | Role | linked in|
+|------|------|----------|
+| **Abhishek** | Hardware (ESP32), Android (Kotlin), Cloud (Firebase + AWS) |https://www.linkedin.com/in/abhishek-embaddedelectro/
 | **deekshi shetti** | Cloud (Firebase + AWS) |
 
 *Built for Innovation Hub Future Founders 2.0*
